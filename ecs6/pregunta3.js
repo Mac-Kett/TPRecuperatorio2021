@@ -7,7 +7,7 @@
  * Stout: 120
  * Wheat: 95
  * 
- * La función debe retornar el nuevo array incluyendo la propiedad precio
+ * La función debe retornar el nuevo array ordenado por precio, poniendo la cerveza las cara primero
  */
 
 const beers = [

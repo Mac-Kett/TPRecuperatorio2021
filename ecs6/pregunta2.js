@@ -1,6 +1,6 @@
 /**
  * En el siguiente array de objetos (beers)
- * 1.- Desarrollar una function que retorne el array ordenado por la propiedad: name
+ * 1.- Desarrollar una function que retorne el array ordenado por la propiedad: abv (grado alcoholico)
  * 2.- Desarrollar una function que retorne el promedio de abv (grado alcoholico) de todas las cervezas
  
  /*
