@@ -1,7 +1,6 @@
 /**
- * Dato el array de inventores, desarrollar una funcion que agregue como una nueva propiedad
- * los descubrimientos de los inventores por ej. para Einstein 
- * ['Teoría de la relatividad especial','Equivalencia entre masa y energía','Teoría de la relatividad general']
+ * Dato el array de inventores, desarrollar una funcion que imprima en formato tabla ordenando los 
+ * inventores por año en forma ascendente
  * 
  */
 
@@ -14,19 +13,5 @@ const inventors = [
     { first: 'Nicolaus', last: 'Copernicus', year: 1473 },
     { first: 'Max', last: 'Planck', year: 1858 },
   ];
-
-  /**
-   * Función que agrega descubrimientos en el array de inventors
-   * @param {*} inventor 
-   * @param {*} discoveries 
-   * @param {*} inventors 
-   */
-  function addDescubrimientos(inventor, discoveries, inventors){
-      
-  }
-
-  console.log(addDescubrimientos({ first: 'Albert', last: 'Einstein', year: 1879 }, 
-  ['Teoría de la relatividad especial','Equivalencia entre masa y energía','Teoría de la relatividad general'], inventors
-  ));
 
   
